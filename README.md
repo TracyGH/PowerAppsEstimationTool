@@ -4,6 +4,8 @@ Estimate the cost of your Power Apps application and compare costs of the differ
 ## To Power Apps or to custom dev? That is often the question.
 While custom development will typically incur more up-front costs and take longer to build, Power Apps will potentially incur licensing fees for the life of the application. When deciding the best fit for your solution and organization, it can be helpful to estimate the potential Power Apps licensing costs. 
 ### Power Apps Estimation Tool How-To:
+:white_check_mark: Simply download the PowerAppEstimationTool.xlsx file.
+
 :white_check_mark: The only required value is an estimate of the number of unique monthly visitors your app will receive.  
 
 :white_check_mark: The Dataverse Database, File, and Log usage values can be left blank. The tool will provide the allotted Dataverse capacities for each PowerApps licensing model. Additional Dataverse capacity can be purchased for [Premium and per app models](https://learn.microsoft.com/en-us/power-platform/admin/add-storage#purchase-add-on-storage-capacity) as well as [pay-as-you-go](https://learn.microsoft.com/en-us/power-platform/admin/pay-as-you-go-meters?tabs=image#how-do-meters-work).  
