@@ -1,5 +1,5 @@
 # PowerAppsEstimationTool
-Estimate the cost of your Power Apps application and compare costs of the different Microsoft Power Apps licensing models. 
+Estimate the cost of your Power Apps application and compare pricing of the different Microsoft Power Apps licensing models. 
 
 ## To Power Apps or to custom dev? That is often the question.
 While custom development will typically incur more up-front costs and take longer to build, Power Apps will potentially incur licensing fees for the life of the application. When evaluating the best approach for your solution and organization, it can be helpful to estimate the potential Power Apps licensing costs. 
