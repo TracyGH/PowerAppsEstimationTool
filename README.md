@@ -1,4 +1,5 @@
 # PowerAppsEstimationTool
+**Because money matters.**  
 Estimate the cost of your Power Apps application and compare pricing of the different Microsoft Power Apps licensing models. 
 
 ## To Power Apps or to custom dev? That is often the question.
